@@ -1,7 +1,7 @@
 package game;
 
 public class BoardModel {
-	
+	//test
 	public static final int MIN_SIZE = 8;
 	public static final int MEDIUM_SIZE = 12;
 	public static final int MAX_SIZE = 16;
